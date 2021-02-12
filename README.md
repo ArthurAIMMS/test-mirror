@@ -1,5 +1,5 @@
 # test mirror
 
-test mirror with Gitlab.com
+test mirror with Github.com
 
 This is a dummy commit
